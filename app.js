@@ -2,26 +2,26 @@
 data = [
     {
         id: 1,
-        img: 'img/slider/1.png',
+        img: '1.png',
     }
     ,
     {
         id: 2,
-        img: 'img/slider/2.jpg',
+        img: '2.jpg',
     }
     ,
     {
         id: 3,
-        img: 'img/slider/3.png',
+        img: '3.png',
     }
     ,
     {
         id: 4,
-        img: 'img/slider/4.jpg',
+        img: '4.jpg',
     },
     {
         id: 5,
-        img: 'img/slider/5.jpg',
+        img: '5.jpg',
     }
 
 ]
